@@ -75,10 +75,14 @@ Per Node:
 Although somewhat dated, the introductory chapters of this book were a great entry points to learn about both the design and history of beowulf clusters. 
 
 **OpenMPI**
+
 This is an open-source implementation of MPI (Message Passing Interface), which allows for different cores in a multiprocessing program to send data to one another.
+
 https://docs.open-mpi.org/en/v5.0.x/
 
 
 **Slurm**
+
 This is an open-source workload manager that can work together with MPI, as well as on its own for simpler tasks. It allocates resources, can do diagnostics and send jobs across the cluster. It is preferred for when the cluster access is given to multiple clients. Slurm is used in many supercomputers, such as the one in San Diego State University. 
+
 https://slurm.schedmd.com/documentation.html
