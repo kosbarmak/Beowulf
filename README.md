@@ -1,6 +1,7 @@
 # Beowulf Cluster
 
-Basic documentation for the Ubuntu-based Beowulf compute cluster based in the Computer Science Lab at Cal Poly. 
+This is the basic documentation for the Ubuntu-based compute cluster based in the Computer Science Lab at California Polynechnic State University, San Luis Obispo, called Beowulf. It features a total of 16 PC's for a total of 240 CPU cores processing power all linked together in a private network.
+
 
 Constructed by Chris Amey and Alan Kusparmakov.
 
