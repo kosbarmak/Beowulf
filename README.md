@@ -81,6 +81,8 @@ This is an open-source implementation of MPI (Message Passing Interface), which 
 https://docs.open-mpi.org/en/v5.0.x/
 
 
+
+
 **Slurm**
 
 This is an open-source workload manager that can work together with MPI, as well as on its own for simpler tasks. It allocates resources, can do diagnostics and send jobs across the cluster. It is preferred for when the cluster access is given to multiple clients. Slurm is used in many supercomputers, such as the one in San Diego State University. 
