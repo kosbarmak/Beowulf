@@ -42,13 +42,6 @@ ssh mikrotik
 ```
 
 
-## Key Tools
-
-- SSH — node access
-- Slurm — job scheduling
-- OpenMPI — MPI workloads
-- MikroTik RouterOS — LAN/DNS/switch management
-
 ## Hardware
 The following hardware was used to establish the local area network. 
 
